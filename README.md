@@ -7,16 +7,16 @@ PANORAMA es una herramienta que ayuda a colocar un fondo de pantalla panoramico 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ✨ Funciones Destacadas
 
-🚀 Ejecutable Portable
+- 🚀 Ejecutable Portable
 No requiere instalación. Descarga y ejecuta en segundos.
 
-🧭 Interfaz Intuitiva
+- 🧭 Interfaz Intuitiva
 Panel de control claro y optimizado para acceso rápido a información clave.
 
-⚡ Consumo Ligero
+- ⚡ Consumo Ligero
 Diseñado para no ejecutarse en segundo plano sin afectar el rendimiento del sistema.
 
-🔐 Seguridad
+- 🔐 Seguridad
 Manejo seguro de datos y archivos.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -32,11 +32,11 @@ Sigue estos pasos para comenzar:
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 Requisitos del Sistema
-🪟 Sistema Operativo: Windows 10 o superior (64-bit recomendado)
-🧠 Memoria RAM: Mínimo 1 GB
-💾 Espacio en Disco: ~20 MB
-⚙️ Dependencias:
-Requiere .NET Framework, WebView2 / Standalone
+- 🪟 Sistema Operativo: Windows 10 o superior (64-bit recomendado)
+- 🧠 Memoria RAM: Mínimo 1 GB
+- 💾 Espacio en Disco: ~20 MB
+- ⚙️ Dependencias:
+- Requiere .NET Framework, WebView2 / Standalone
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,8 +46,8 @@ Al ser un archivo .exe, Windows SmartScreen puede mostrar una advertencia. Esto 
 
 Puedes tener confianza en lo siguiente:
 
-🔒 La aplicación no recopila datos personales sin consentimiento
-🌐 Solo realiza conexiones salientes para:
+- 🔒 La aplicación no recopila datos personales sin consentimiento
+- 🌐 Solo realiza conexiones salientes para:
 (Ej. abrir archivos jpg, configuracion de windows (background en especifico), actualizaciones, etc.)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
