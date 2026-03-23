@@ -1,8 +1,8 @@
-#🌐 PANORAMA
+# 🌐 PANORAMA
 
 PANORAMA es una herramienta de escritorio diseñada para centralizar y visualizar métricas, estados y procesos críticos desde una sola interfaz. Permite gestionar operaciones complejas de forma simple, rápida y eficiente en entornos Windows.
 
-####⚠️ Nota: Este repositorio contiene únicamente la versión compilada del software. Para soporte o reportes de errores, por favor abre un Issue.
+#### ⚠️ Nota: Este repositorio contiene únicamente la versión compilada del software. Para soporte o reportes de errores, por favor abre un Issue.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ✨ Funciones Destacadas
@@ -16,7 +16,7 @@ Diseñado para ejecutarse en segundo plano sin afectar el rendimiento del sistem
 Manejo seguro de datos y conexiones (personaliza aquí si usas cifrado, autenticación, etc.).
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-##📥 Descarga e Instalación
+## 📥 Descarga e Instalación
 
 Sigue estos pasos para comenzar:
 
@@ -27,7 +27,7 @@ Ejecuta el archivo.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-##💻 Requisitos del Sistema
+## 💻 Requisitos del Sistema
 🪟 Sistema Operativo: Windows 10 o superior (64-bit recomendado)
 🧠 Memoria RAM: Mínimo 2 GB
 💾 Espacio en Disco: ~50 MB
@@ -36,7 +36,7 @@ Requiere .NET Framework, WebView2 / Standalone
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-##🛡️ Seguridad y Privacidad
+## 🛡️ Seguridad y Privacidad
 
 Al ser un archivo .exe, Windows SmartScreen puede mostrar una advertencia. Esto es normal en aplicaciones de desarrolladores independientes.
 
