@@ -1,6 +1,6 @@
 # 🌐 PANORAMA
 
-<img width="503" height="455" alt="imagen" src="https://github.com/user-attachments/assets/c46398cd-b9a3-4b80-9234-ec8c840b2676" />
+<CENTER><img width="503" height="455" alt="imagen" src="https://github.com/user-attachments/assets/c46398cd-b9a3-4b80-9234-ec8c840b2676" /></CENTER>
 
 
 
